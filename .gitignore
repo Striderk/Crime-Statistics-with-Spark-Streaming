@@ -1,0 +1,21 @@
+*/venv/*
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*/env/*
+# IPython
+profile_default/
+ipython_config.py
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+police-department-calls-for-service.json
